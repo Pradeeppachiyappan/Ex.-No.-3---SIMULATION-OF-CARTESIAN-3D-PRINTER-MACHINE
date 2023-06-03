@@ -1,6 +1,4 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
-
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
@@ -48,6 +46,8 @@
    3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
+### Name: P.Pradeep Raj
+### Register Number: 212222240073
 ### X AXIS ASSEMBLY
 
 ![WhatsApp Image 2023-05-18 at 18 17 54](https://github.com/22003264/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119389139/055b706c-0987-459d-83db-87e471674e4a)
@@ -138,13 +138,7 @@ The spool is designed to keep the filament neatly wound and prevent tangling or 
 
 
 ##### Playing with Axes:
-
-![image](https://github.com/22003264/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119389139/9aac9b5e-ddb3-4b11-b8e3-32fc44252cd9)
-
-## Output:
-
-### Name: B.venkata bharadwaj
-### Register Number: 212222240020
+![image](https://github.com/Pradeeppachiyappan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118707347/063900e3-2c67-4afb-8f21-4a2d478c9434)
 
 ## Result: 
 Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
